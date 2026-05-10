@@ -1,7 +1,4 @@
-hello beta testers!
-please press start openrec at the bottom
+v1.0.0 Beta
+Hello! Thank you for trying Expo's Rec! For everyone here right now, can you try every version compatible and report if they work on Issues? The compatible versions are on the GitHub at ExpoKid/Expos-Rec in the branch "info".
 
-and just see if it works with 2016 pls
-
-thanks@!!
--recroom2016
+-- ExpoKid
