@@ -1,6 +1,6 @@
-# Welcome to OpenRec!
+# Welcome to Expo's Rec!
 ---
-OpenRec is a RecRoom server software made by recroom2016!
+Expo's Rec is based on recroom2016's Source Code for OpenRec. Our version attempts to bring back every major update of Rec Room (excluding Bug Fixes only as they will be addressed in newer versions)
 
 ### Branches
  - Master / main
@@ -13,5 +13,4 @@ The nightly branch is where all the experimental updates that are needed to be t
 
 ### Getting in contact with the community
 
-If you are new to this we recommend you joining our Discord!
-Link: https://discord.com/invite/daC8QUhnFP
+We recommend you connecting in Issues as Discord is not currently suitable for this task.
